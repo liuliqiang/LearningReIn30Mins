@@ -1,0 +1,26 @@
+site_name: 正则表达式30分钟入门
+theme: readthedocs
+pages:
+    - 简介: index.md
+    - 目录: SUMMARY.md
+    - 如何使用本教程: chapter1.md
+    - 正则表达式到底是什么东西？: chapter2.md
+    - 入门: chapter3.md
+    - 测试正则表达式: chapter4.md
+    - 元字符: chapter5.md
+    - 字符转义: chapter6.md
+    - 重复: chapter7.md
+    - 字符类: chapter8.md
+    - 分支条件: chapter9.md
+    - 分组: chapter10.md
+    - 反义: chapter11.md
+    - 后向引用: chapter12.md
+    - 零宽断言: chapter13.md
+    - 负向零宽断言: chapter14.md
+    - 注释: chapter15.md
+    - 贪婪与懒惰: chapter16.md
+    - 处理选项: chapter17.md
+    - 平衡组/递归匹配: chapter18.md
+    - 还有些什么东西没提到: chapter19.md
+    - 晚上的资源及本文参考文献: chapter20.md
+    - 更新记录: chapter21.md
